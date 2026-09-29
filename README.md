@@ -37,6 +37,8 @@ every admin route declares the scope it needs. a parity test walks the route tab
 
 this is not clever, it just has to be enforced by something other than memory. the panel has grown to a few dozen routes across tickets, economy, moderation, streams, voice and minecraft, and i was not going to keep it straight by hand.
 
+the generalized version of this check is published separately as [scope-parity](https://github.com/ReyDotExe/scope-parity).
+
 ## identity
 
 ### display names are not identifiers
